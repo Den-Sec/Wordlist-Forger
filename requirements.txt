@@ -1,0 +1,11 @@
+tqdm
+colorama
+pyfiglet
+inquirer
+itertools
+datetime
+sys
+random
+os 
+math
+gc  
