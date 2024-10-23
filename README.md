@@ -42,7 +42,7 @@ A powerful and customizable wordlist generator designed for cybersecurity profes
 Run the script using Python:
 
 ```bash
-python main.py
+python wordlistforger.py
 ```
 
 ### Interactive Prompts
